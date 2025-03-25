@@ -1,0 +1,18 @@
+.qodo
+# Backend (Bun)
+.env
+*.env
+node_modules/
+dist/
+bun.lockb
+
+# Frontend (Vite)
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.vite/
+
+# Geral
+*.log
+.idea/
+.vscode/
+.DS_Store
